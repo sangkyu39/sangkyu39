@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=rounded&height=200&color=gradient&6799FF&81BEF7&text=sangkyu&animation=fadeIn&fontColor=ffffff&fontsize=100&fontAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=rounded&height=200&color=gradient&6799F&81BEF7&text=sangkyu&animation=fadeIn&fontColor=ffffff&fontsize=100&fontAlignY=50)
 
 **sangkyu39/sangkyu39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
